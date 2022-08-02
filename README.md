@@ -8,7 +8,7 @@ The goal of this project is to provide a strategy for value investments and will
 
 The repository contains the following documents:
 - A folder containing datasets needed to run the script. The data folder contains 10 files
-- Access to jupyter notebook
+- A jupyter notebook called Portfolio Construction and Optimisation
 - A PDF report that contains a breakdown of the script. All crucial information about the investment strategy can be accessed from the report
 
 ## Prerequisites
