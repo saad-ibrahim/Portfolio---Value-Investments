@@ -24,6 +24,7 @@ git clone https://github.com/saad-ibrahim/Portfolio---Value-Investments
 ### Running the program
 You may find that when you run the script your ouput in the portfolio optimisation section will not be the same as those presented here. This is not a mistake, the script incorporates Monte Carlo simulation which will generate different values every time it is ran.
 
+<dl>
 <dt> Please note changes to the Python codebase will require updating this workbook <dt>
 
 ### Disclaimer
