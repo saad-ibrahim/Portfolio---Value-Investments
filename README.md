@@ -22,10 +22,10 @@ git clone https://github.com/saad-ibrahim/Portfolio---Value-Investments
 ```
 
 ### Running the program
-You may find that when you run the script your ouput in the portfolio optimisation section will not be the same as those presented here. This is not a mistake, the script incorporates Monte Carlo simulation which will generate different values every time it is ran. 
+You may find that when you run the script your ouput in the portfolio optimisation section will not be the same as those presented here. This is not a mistake, the script incorporates Monte Carlo simulation which will generate different values every time it is ran.
+
+<dt> Please note changes to the Python codebase will require updating this workbook <dt>
 
 ### Disclaimer
 <dl>
 <dt> This strategy is part one of a four part strategy and should not be used to guarantee any sort of financial returns. Please do your due dilligence before making investment decisions and/or consult with a financial advisor as necessary. <dt>
-
-<dt> Please note changes to the Python codebase will require updating this workbook <dt>
