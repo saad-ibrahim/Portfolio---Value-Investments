@@ -27,3 +27,5 @@ You may find that when you run the script your ouput in the portfolio optimisati
 ### Disclaimer
 <dl>
 <dt> This strategy is part one of a four part strategy and should not be used to guarantee any sort of financial returns. Please do your due dilligence before making investment decisions and/or consult with a financial advisor as necessary. <dt>
+
+<dt> Please note changes to the Python codebase will require updating this workbook <dt>
